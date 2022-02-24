@@ -5,22 +5,35 @@
     padding: 0px;
 }
 
-html, body{
-    background-color: rgb(216, 216, 216);
+.cabecalho{
+    padding: 18px 365px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }
-
-header{
-    background-color: white;
+.cabecalho-logo{
+    width: 103px;
+    height: 29px;
 }
-
-header #logo{
- display: block;
- position: relative;
+.cabecalho-pesquisa{
+    margin-left: 100px;
+    width: 268px;
+    height: 36px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 10px;
 }
-header div{
-    display: inline-block;
-
+.cabecalho-navegação{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
 }
-nav{
-    display: inline-block;
+.cabecalho-navegação--imgperfil{
+    width: 24px;
+    height: 24px;
+    border: 1px solid black;
+    padding: 1px;
+    border-radius: 100%;
 }
