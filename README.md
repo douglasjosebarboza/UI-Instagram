@@ -1,6 +1,5 @@
-# UI-Instagram
-Projeto que utiliza HTML e CSS para criar um clone da interface da pagina de perfil do Instagram
-
+# Clone da UI do Instagram
+Esse projeto replica com fidelidade a interface da página de perfil do Instagram. Essa iniciativa visa oferecer uma experiência visual semelhante à plataforma original.
 ### Tecnologias utilizadas
 - HTML
 - CSS
